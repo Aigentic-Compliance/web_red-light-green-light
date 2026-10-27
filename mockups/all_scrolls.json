@@ -1,0 +1,1995 @@
+[
+  {
+    "scroll_number": 1,
+    "tier": 1,
+    "tierName": "Beginner (1/4)",
+    "title": "Scroll: Basic Gift Compliance",
+    "rules": [
+      "Gifts must never be cash or cash equivalents (e.g. gift cards, vouchers).",
+      "Gift value must be below the applicable threshold (global €50 or strictest local threshold).",
+      "Gifts must not be offered to or received from government officials or their family.",
+      "Gifts should serve a legitimate business purpose and be given transparently (openly, not in secret).",
+      "Hospitality events where the host is present are not considered a gift. The Hospitality Policy applies.",
+      "If all criteria met → register for approval (except low-value promotional items such as mouse mats, pens, and mugs, which do not need to be registered); If you receive a gift that does not meet the criteria, politely decline or return."
+    ],
+    "examples": [
+      "€25 branded wireless charger distributed openly by a supplier during a software launch demonstration to all participants",
+      "€30 box of artisanal chocolates delivered by the aide of a government regulator.",
+      "€30 crystal paperweight (not a precious collectible) given openly to a client is compliant if registered.",
+      "€45 gift card for a popular restaurant from a supplier after a project review.",
+      "€45 in an envelope from a Chinese customer received at an event for Chinese New Year."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts must never be cash or cash equivalents.",
+        "answer": "True",
+        "explanation": "Cash or equivalents such as gift cards are always prohibited due to bribery risks.",
+        "difficulty": "Easy",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "A €45 gift card from a vendor can be accepted without registration.",
+        "answer": "False",
+        "explanation": "Gift cards are considered cash equivalents and are never acceptable, regardless of value.",
+        "difficulty": "Medium",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "Gifts from government officials are allowed if they are small and symbolic.",
+        "answer": "False",
+        "explanation": "Gifts from or to government officials are never allowed, regardless of value or symbolism.",
+        "difficulty": "Hard",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "A €25 branded charger given to all attendees at a public event is generally acceptable.",
+        "answer": "True",
+        "explanation": "Low-value, openly distributed promotional items are generally compliant and do not need to be registered.",
+        "difficulty": "Easy",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "Hospitality events where the host is present fall under the Gift Policy.",
+        "answer": "False",
+        "explanation": "Hospitality is governed by a separate policy and does not fall under gift registration rules.",
+        "difficulty": "Medium",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "You may keep a €45 in cash if it is offered for a cultural celebration.",
+        "answer": "False",
+        "explanation": "Cash is never allowed, even in culturally significant situations.",
+        "difficulty": "Hard",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "All compliant gifts, except low-value promotional items, must still be registered (ideally before acceptance).",
+        "answer": "True",
+        "explanation": "Even gifts that meet all requirements must be logged for transparency, except low-value promotional items (such as mouse mats, pens, and mugs), which do not need to be registered.",
+        "difficulty": "Easy",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "Lavish gifts are permitted as long as they’re declared.",
+        "answer": "False",
+        "explanation": "Lavish or extravagant gifts are not automatically compliant when declared. They are a red flag. The circumstances need to be taken into account and all the other policy requirements must be met.",
+        "difficulty": "Medium",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      },
+      {
+        "statement": "A gift received secretly from a vendor is acceptable if its value is under €50.",
+        "answer": "False",
+        "explanation": "Secrecy is a red flag; gifts must be given transparently and openly.",
+        "difficulty": "Hard",
+        "scrollNumber": 1,
+        "scrollTitle": "Scroll: Basic Gift Compliance"
+      }
+    ]
+  },
+  {
+    "scroll_number": 2,
+    "tier": 1,
+    "tierName": "Beginner (1/4)",
+    "title": "Scroll: Gift Registration Essentials",
+    "rules": [
+      "All gifts received or offered, except for low-value promotional items (e.g. mouse mats, pens, and mugs), need to be registered.",
+      "Timely registration must occur. Guideline 5 business days after receiving the gift.",
+      "A reason for offering the gift must be clearly stated in the registry.",
+      "If a gift is rejected or returned, that action must also be documented.",
+      "Registrations must include the name of the giver, estimated value, and date received.",
+      "The registry will be monitored and reviewed periodically by Compliance or Management."
+    ],
+    "examples": [
+      "Employee receives a low-value promotional mouse mat and pen during a conference, which do not need to be registered.",
+      "A client sends a holiday gift box valued at €60, which is returned and the return is recorded.",
+      "An employee forgets to register a €30 bottle of wine given after a pitch meeting.",
+      "€45 headphones received from a business partner are accepted and properly recorded within 3 days.",
+      "Employee logs a rejected €150 vase gifted by a vendor at a private dinner."
+    ],
+    "questions": [
+      {
+        "statement": "All gifts, except for low-value promotional items, must be recorded in the gift registry.",
+        "answer": "True",
+        "explanation": "All gifts have to be recorded, except for low-value promotional items (e.g., mouse mats, pens, and mugs), which do not need to be registered.",
+        "difficulty": "Easy",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "You have up to 30 days to register a gift after receiving it.",
+        "answer": "False",
+        "explanation": "The standard guideline is to register gifts within 5 business days to avoid oversight.",
+        "difficulty": "Medium",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "Returned or declined gifts should not be documented since they were not accepted.",
+        "answer": "False",
+        "explanation": "Documentation of rejected gifts is required for auditing and compliance clarity.",
+        "difficulty": "Hard",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "A €45 pair of headphones from a vendor should be registered within 5 business days.",
+        "answer": "True",
+        "explanation": "Gifts of any value, especially from business partners, should be registered promptly.",
+        "difficulty": "Easy",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "If a gift is offered by a long-standing vendor, registration is optional.",
+        "answer": "False",
+        "explanation": "Familiarity with the giver does not exempt registration—rules apply equally.",
+        "difficulty": "Medium",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "The purpose of the gift must be noted when registering it.",
+        "answer": "True",
+        "explanation": "Understanding the intent helps Compliance assess legitimacy and risk.",
+        "difficulty": "Medium",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "The registry must include who gave the gift, the date, and its estimated value.",
+        "answer": "True",
+        "explanation": "These elements are essential for auditability and proper compliance tracking.",
+        "difficulty": "Easy",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "The gift registry is reviewed weekly by Compliance.",
+        "answer": "False",
+        "explanation": "Policies vary, but typically registries are reviewed periodically—not necessarily weekly.",
+        "difficulty": "Hard",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      },
+      {
+        "statement": "If you verbally inform your manager about a gift, formal registration is not needed.",
+        "answer": "False",
+        "explanation": "Verbal notification is not a substitute for proper documentation in the registry.",
+        "difficulty": "Hard",
+        "scrollNumber": 2,
+        "scrollTitle": "Scroll: Gift Registration Essentials"
+      }
+    ]
+  },
+  {
+    "scroll_number": 3,
+    "tier": 1,
+    "tierName": "Beginner (1/4)",
+    "title": "Scroll: Declining Inappropriate Gifts",
+    "rules": [
+      "Gifts that may influence business decisions must always be refused.",
+      "Lavish or luxury items, must be treated with caution even if they would be within the threshold as they may be      intended to improperly influence someone’s business decision.",
+      "Offering gifts to of accepting gifts from someone you have a personal relationship with, and without a business       purpose, are inappropriate and could be perceived as an attempt to influence your business decisions.",
+      "Suspicious timing (e.g. before a tender decision) is a reason for not accepting or offering a gift.",
+      "Gifts from vendors currently under evaluation or audit must be refused.",
+      "The reason for rejecting a gift must be communicated politely and documented."
+    ],
+    "examples": [
+      "An employee receives a smartwatch from a supplier during a contract renewal meeting.",
+      "A vendor offers a €40 perfume bottle privately after a performance review.",
+      "A luxury pen given by a bidder during a procurement process is politely returned.",
+      "An expensive painting is sent anonymously to the employee's home address.",
+      "A lavish food basket is offered by a new vendor awaiting onboarding approval."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts that could influence a business decision must always be declined.",
+        "answer": "True",
+        "explanation": "Any gift that creates a perception of bias must be refused to preserve integrity.",
+        "difficulty": "Easy",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "A €45 luxury scarf given by a supplier during contract negotiations can be accepted if registered.",
+        "answer": "False",
+        "explanation": "Even under the value threshold, luxury gifts during sensitive periods must be declined.",
+        "difficulty": "Medium",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "It’s appropriate to accept a gift from a vendor you are currently auditing.",
+        "answer": "False",
+        "explanation": "Gifts from vendors under evaluation or audit must be declined to prevent conflict of interest.",
+        "difficulty": "Hard",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "Gifts given privately and without witnesses should raise concerns.",
+        "answer": "True",
+        "explanation": "Secrecy and lack of transparency are red flags for potential misconduct.",
+        "difficulty": "Easy",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "If a long-time friend gives you a personal gift, no business rules apply.",
+        "answer": "False",
+        "explanation": "Even gifts from personal acquaintances must be assessed for perceived influence in a business context.",
+        "difficulty": "Medium",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "Gifts should always be returned without explanation.",
+        "answer": "False",
+        "explanation": "Rejections must be handled politely and, where required, documented to maintain professionalism.",
+        "difficulty": "Hard",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "Receiving a smartwatch from a supplier during a contract renewal is inappropriate.",
+        "answer": "True",
+        "explanation": "This timing implies an attempt to influence and such gifts should be rejected.",
+        "difficulty": "Easy",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "Suspicious timing of a gift is a valid reason for rejection.",
+        "answer": "True",
+        "explanation": "Gifts around key business milestones should be declined to avoid ethical concerns.",
+        "difficulty": "Medium",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      },
+      {
+        "statement": "Gifts delivered to your home address may be accepted if their value is low.",
+        "answer": "False",
+        "explanation": "Anonymous or personal delivery methods are considered highly suspicious regardless of value.",
+        "difficulty": "Hard",
+        "scrollNumber": 3,
+        "scrollTitle": "Scroll: Declining Inappropriate Gifts"
+      }
+    ]
+  },
+  {
+    "scroll_number": 4,
+    "tier": 1,
+    "tierName": "Beginner (1/4)",
+    "title": "Scroll: Public vs. Private Gifts",
+    "rules": [
+      "Public distribution of low-value branded items at events (e.g. trade shows) is generally allowed.",
+      "Gift should be given at an appropriate time, openly and not secretly. Anonymous gifts are not transparent and       may raise suspicions about their purpose or intent.",
+      "A gift is considered 'private' if not witnessed by others or if given in secret.",
+      "Secretive gifts raise suspicion and are discouraged—even when under the threshold.",
+      "All gifts, public or private, must still comply with value and purpose rules.",
+      "Gifts should not create any obligations or expectations of reciprocation. Giving a gift during a strategic meeting - even though it done openly - could be perceived as an attempt to influence business decisions or curry favour with the stakeholder receiving the gift."
+    ],
+    "examples": [
+      "A €15 tote bag handed to all attendees at a supplier’s booth.",
+      "A €40 gift card quietly given after a confidential negotiation.",
+      "€20 water bottles with logo handed out at a sustainability conference.",
+      "€35 theater tickets offered in an envelope at a one-on-one lunch.",
+      "Branded chocolates (€10) placed at every chair during a public conference."
+    ],
+    "questions": [
+      {
+        "statement": "Low-value gifts distributed openly at conferences are generally acceptable.",
+        "answer": "True",
+        "explanation": "Public distribution of branded items at events is typically compliant if low in value.",
+        "difficulty": "Easy",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "A €40 gift card handed over in secret after a deal is considered a compliant gesture.",
+        "answer": "False",
+        "explanation": "Private and secret gifts—even under the threshold—raise concerns and must be declined.",
+        "difficulty": "Medium",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "Branded chocolates left on each chair at a public event are allowed.",
+        "answer": "True",
+        "explanation": "This is public, transparent, low-value distribution and generally acceptable.",
+        "difficulty": "Easy",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "Gifts offered in private are always compliant if under the threshold.",
+        "answer": "False",
+        "explanation": "Even low-value gifts must be assessed for context—privacy implies risk of undue influence.",
+        "difficulty": "Medium",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "Secret or anonymous gifts violate transparency and must be reported or declined.",
+        "answer": "True",
+        "explanation": "Secrecy and lack of traceability are red flags under any compliance policy.",
+        "difficulty": "Easy",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "If a gift is under threshold but given during a high-stakes negotiation, it may be perceived as inappropriate.",
+        "answer": "True",
+        "explanation": "The timing and setting can make even small gifts inappropriate due to perceived influence.",
+        "difficulty": "Hard",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "All gifts—whether public or private—must still meet core gift compliance rules.",
+        "answer": "True",
+        "explanation": "Compliance isn't only about value, but purpose, transparency, and context.",
+        "difficulty": "Medium",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "Anonymous gifts are fine as long as their value is minimal and intent is assumed to be good.",
+        "answer": "False",
+        "explanation": "Anonymous gifts are non-transparent and should always be treated as suspicious.",
+        "difficulty": "Hard",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      },
+      {
+        "statement": "Publicly shared water bottles with company branding are considered high risk.",
+        "answer": "False",
+        "explanation": "Such public, promotional items are typically low risk.",
+        "difficulty": "Easy",
+        "scrollNumber": 4,
+        "scrollTitle": "Scroll: Public vs. Private Gifts"
+      }
+    ]
+  },
+  {
+    "scroll_number": 5,
+    "tier": 2,
+    "tierName": "Intermediate (2/4)",
+    "title": "Scroll: Patterns of Inappropriate Gifting",
+    "rules": [
+      "Repeated small gifts from the same source may be considered inappropriate if they add up over time.",
+      "Accepting gifts during a tendering or negotiation phase is strictly prohibited.",
+      "Gift-giving patterns that appear strategic or manipulative should be flagged.",
+      "Avoid giving or receiving gifts to influence a business outcome or relationship.",
+      "All gifts, even compliant ones (except low-value promotional items), must be logged and reviewed for cumulative impact.",
+      "Gifts from vendors with pending decisions should be declined regardless of value."
+    ],
+    "examples": [
+      "Five €15 coffee gift cards from the same consultant across 3 months.",
+      "€20 bottle of wine offered every week during a procurement negotiation.",
+      "€10 lunch voucher offered daily by an intern trying to gain favor.",
+      "Series of €5 holiday treats mailed by a vendor in an active tender.",
+      "€30 mug offered by a supplier who recently lost a contract bid."
+    ],
+    "questions": [
+      {
+        "statement": "Accepting repeated low-value gifts over time can still violate compliance rules.",
+        "answer": "True",
+        "explanation": "Even small gifts, when frequent, may be seen as inappropriate due to cumulative value or intent.",
+        "difficulty": "Easy",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Accepting a €10 lunch voucher, given every day, is not a compliance issue because of its low value.",
+        "answer": "False",
+        "explanation": "Frequent gifting—especially during sensitive periods—can create perception of undue influence.",
+        "difficulty": "Medium",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Gifts given during procurement or tendering should always be declined.",
+        "answer": "True",
+        "explanation": "Compliance rules prohibit accepting gifts during negotiation or tendering phases.",
+        "difficulty": "Easy",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "A €50 tea set from a vendor who recently lost a contract is harmless and always acceptable.",
+        "answer": "False",
+        "explanation": "Even if value is low, the timing and relationship context may raise red flags.",
+        "difficulty": "Medium",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Strategically timed gifts, even under the threshold, must be logged and reported.",
+        "answer": "True",
+        "explanation": "Gift logs help identify patterns that may otherwise go unnoticed.",
+        "difficulty": "Easy",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Gifts are compliant if they're given outside of formal meetings or decision periods.",
+        "answer": "False",
+        "explanation": "Timing alone does not determine compliance—intent and patterns matter.",
+        "difficulty": "Hard",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Receiving several small gifts from the same vendor is fine if each gift is under €10.",
+        "answer": "False",
+        "explanation": "Cumulative patterns matter; even small gifts can raise concerns if frequent.",
+        "difficulty": "Medium",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Gifts offered by vendors with pending decisions should be refused regardless of value.",
+        "answer": "True",
+        "explanation": "Compliance policies prohibit accepting gifts from vendors involved in open decisions.",
+        "difficulty": "Easy",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      },
+      {
+        "statement": "Flagging a gift pattern as manipulative requires proof of bribery.",
+        "answer": "False",
+        "explanation": "Suspicious patterns can be flagged based on perception and context alone.",
+        "difficulty": "Hard",
+        "scrollNumber": 5,
+        "scrollTitle": "Scroll: Patterns of Inappropriate Gifting"
+      }
+    ]
+  },
+  {
+    "scroll_number": 6,
+    "tier": 2,
+    "tierName": "Intermediate (2/4)",
+    "title": "Scroll: Gifts During Sensitive Periods",
+    "rules": [
+      "Gifts must not be accepted or offered during contract tendering, negotiation, or renewal periods.",
+      "Even compliant gifts during these periods are to be declined due to perception risks.",
+      "Employees must proactively inform third parties about these blackout periods.",
+      "Registering a compliant gift during a sensitive period does not make it acceptable.",
+      "Suspicious timing should always trigger escalation to Compliance.",
+      "Gifts post-award or post-rejection must also be reviewed carefully as they may be perceived as a reward."
+    ],
+    "examples": [
+      "€40 bouquet received the day before contract renewal.",
+      "Branded notebook handed over during shortlisting interviews.",
+      "€20 chocolates left in the meeting room during bid evaluation.",
+      "Lunch invitation during a pricing negotiation session.",
+      "Wine gift sent one day after a vendor award notice."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts offered during contract negotiations must always be declined, even if low-value.",
+        "answer": "True",
+        "explanation": "Sensitive periods like negotiations increase the risk of perceived influence regardless of gift value.",
+        "difficulty": "Easy",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "Registering a gift during a tendering process makes it acceptable under compliance rules.",
+        "answer": "False",
+        "explanation": "Registration does not override timing restrictions; such gifts must still be refused.",
+        "difficulty": "Medium",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "A bouquet with vase (estimated value EURO 48) received the day before contract renewal should be logged and escalated.",
+        "answer": "True",
+        "explanation": "Even a seemingly innocent gesture can be inappropriate due to the sensitive timing.",
+        "difficulty": "Easy",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "A €20 box of chocolates left anonymously during bid review, should be reported to compliance.",
+        "answer": "True",
+        "explanation": "Anonymous and poorly timed gifts should always be refused and/or reported.",
+        "difficulty": "Medium",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "Employees should inform vendors of the gift policy incl. blackout periods where gifting is not allowed.",
+        "answer": "True",
+        "explanation": "Proactively communicating expectations helps reduce compliance risk.",
+        "difficulty": "Easy",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "A thank-you gift offered after awarding a contract is always acceptable.",
+        "answer": "False",
+        "explanation": "Even post-award gifts can raise concerns of improper influence and must be reviewed.",
+        "difficulty": "Hard",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "Escalation to Compliance is required only if the gift exceeds the value threshold.",
+        "answer": "False",
+        "explanation": "Escalation is based on timing and context, not just monetary value.",
+        "difficulty": "Medium",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "It is the responsibility of employees to explain the gift policy to third parties.",
+        "answer": "True",
+        "explanation": "Transparency with vendors helps ensure adherence to compliance standards.",
+        "difficulty": "Easy",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      },
+      {
+        "statement": "Gifts given during sensitive periods are permissible as long as they are openly given and modest.",
+        "answer": "False",
+        "explanation": "Timing takes precedence over other factors during blackout periods.",
+        "difficulty": "Hard",
+        "scrollNumber": 6,
+        "scrollTitle": "Scroll: Gifts During Sensitive Periods"
+      }
+    ]
+  },
+  {
+    "scroll_number": 7,
+    "tier": 2,
+    "tierName": "Intermediate (2/4)",
+    "title": "Scroll: Registration and Transparency Requirements",
+    "rules": [
+      "All gifts—offered or received—except low-value promotional items (such as mouse mats, pens, and mugs), must be registered.",
+      "Verbal approvals are insufficient; gifts must have formal registration.",
+      "Lack of registration = non-compliance, even if gift is otherwise acceptable.",
+      "Refused gifts must also be logged (offer attempted).",
+      "Registration must occur before accepting or offering a gift whenever possible.",
+      "Gift records are used for audits and must be traceable."
+    ],
+    "examples": [
+      "€35 book given to a client at a public event without registration.",
+      "Unlogged gift card discovered during internal audit.",
+      "€20 mug declined but never recorded in the tool.",
+      "Registered €40 travel adapter given before a trip to a customer site.",
+      "Verbal okay from a manager to accept a €30 scarf from a vendor."
+    ],
+    "questions": [
+      {
+        "statement": "All gifts, except low-value promotional items, must be registered, even if their value is low.",
+        "answer": "True",
+        "explanation": "Value does not exempt gifts from registration; transparency is key. Only low-value promotional items such as mouse mats, pens, and mugs are excepted from registration.",
+        "difficulty": "Easy",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "A verbal approval from a manager is enough to offer a gift.",
+        "answer": "False",
+        "explanation": "Only formal, recorded approvals are compliant; verbal consent is insufficient.",
+        "difficulty": "Medium",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "If a gift is declined, there is no need to log it.",
+        "answer": "False",
+        "explanation": "Refused gifts must be recorded to provide an audit trail and identify patterns.",
+        "difficulty": "Medium",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "Offering a €40 travel adapter that was registered and approved to a client is acceptable if done transparently.",
+        "answer": "True",
+        "explanation": "Transparent, pre-registered gifts that follow rules are compliant.",
+        "difficulty": "Easy",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "Gifts discovered during an audit that were not registered may result in a compliance violation.",
+        "answer": "True",
+        "explanation": "Failure to register a gift—even if otherwise compliant—violates the policy.",
+        "difficulty": "Medium",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "Employees must register gifts before offering them, not after giving.",
+        "answer": "True",
+        "explanation": "Pre-registration ensures proper approval and reduces risk. Some gifts require prior approval from your line manager.",
+        "difficulty": "Hard",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "It is acceptable to record a gift only if it exceeds the threshold.",
+        "answer": "False",
+        "explanation": "All gifts must be registered regardless of value unless explicitly exempted by policy. If the value of the gift exceeds the threshold, it is not compliant.",
+        "difficulty": "Hard",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "Gift logs are used in compliance audits and investigations.",
+        "answer": "True",
+        "explanation": "Registration data ensures transparency and traceability for oversight purposes.",
+        "difficulty": "Easy",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      },
+      {
+        "statement": "If a gift has been registered and approved after being offered, it's fully compliant.",
+        "answer": "False",
+        "explanation": "Gifts must be registered and approved in advance — retroactive registration does not suffice. If approval is not given because the gift is not compliant and you already purchased and offered the gift, you will not be reimbursed for the expense.",
+        "difficulty": "Hard",
+        "scrollNumber": 7,
+        "scrollTitle": "Scroll: Registration and Transparency Requirements"
+      }
+    ]
+  },
+  {
+    "scroll_number": 8,
+    "tier": 2,
+    "tierName": "Intermediate (2/4)",
+    "title": "Scroll: Inappropriate Gift Types",
+    "rules": [
+      "Precious Articles include, but are not limited to:\n- Precious metal like gold, silver, and platinum.\n- Precious stones like diamond, ruby, or any gem.\n- Any jewellery or any items made from or plated with precious metals or stones.\n- Vouchers provided to enable purchase of these precious metals or stones.\n- Any other article, the value of which appreciates over time.",
+      "Precious Articles like jewelry, gold items, and designer products are prohibited.",
+      "Gifts suggesting intimacy or personal relationships must be avoided.",
+      "Tickets to exclusive events (e.g. sports finals) often require special review by management and/or compliance.",
+      "Cash-like gifts (prepaid cards, crypto) are not allowed.",
+      "Any gift that could embarrass the company if made public is prohibited."
+    ],
+    "examples": [
+      "€50 sunglasses gifted at a conference.",
+      "A voucher for golden coins.",
+      "VIP football match ticket offered by a supplier.",
+      "€30 bottle of champagne wrapped in luxury packaging.",
+      "Gold-plated pen engraved with recipient’s initials."
+    ],
+    "questions": [
+      {
+        "statement": "Jewelry, gold items, and other precious articles are not allowed as gifts.",
+        "answer": "True",
+        "explanation": "Precious articles are prohibited due to their high value and risk of perceived bribery.",
+        "difficulty": "Easy",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "A prepaid card with €30 value is acceptable as long as it is below the threshold.",
+        "answer": "False",
+        "explanation": "Cash equivalents like prepaid cards are prohibited regardless of value.",
+        "difficulty": "Medium",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "Tickets to a World Cup Final gifted by a vendor must be reviewed by compliance.",
+        "answer": "True",
+        "explanation": "Exclusive event tickets carry high reputational and compliance risks and require prior approval.",
+        "difficulty": "Medium",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "Designer products like handbags are considered lavish and non-compliant gifts.",
+        "answer": "True",
+        "explanation": "Lavish or high-end items are prohibited under the Inappropriate Gift Types rule.",
+        "difficulty": "Easy",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "It is discouraged to accept a bottle of luxury perfume if its value is below €50.",
+        "answer": "True",
+        "explanation": "Luxury or suggestive personal items are discouraged.",
+        "difficulty": "Medium",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "Gifts that could be embarrassing if revealed publicly are always inappropriate.",
+        "answer": "True",
+        "explanation": "Public perception is a key compliance test—if it would embarrass the company, it should be declined.",
+        "difficulty": "Hard",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "An engraved silver-plated pen may be accepted if its value is below the threshold.",
+        "answer": "False",
+        "explanation": "Silver-plated items are considered precious articles and should not be accepted regardless of cost.",
+        "difficulty": "Hard",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "A voucher for purchasing gemstones is acceptable as long as it’s declared.",
+        "answer": "False",
+        "explanation": "Vouchers for precious items are treated like the items themselves and are prohibited.",
+        "difficulty": "Hard",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      },
+      {
+        "statement": "Gifts implying personal relationships or romantic intent must be declined.",
+        "answer": "True",
+        "explanation": "Such gifts are inappropriate and create potential conflicts of interest.",
+        "difficulty": "Easy",
+        "scrollNumber": 8,
+        "scrollTitle": "Scroll: Inappropriate Gift Types"
+      }
+    ]
+  },
+  {
+    "scroll_number": 9,
+    "tier": 2,
+    "tierName": "Intermediate (2/4)",
+    "title": "Scroll: Vendor Relationship Boundaries",
+    "rules": [
+      "Vendors should not be allowed to build informal favor banks via gifts.",
+      "Gifts from vendors must not be a factor in vendor selection or scoring.",
+      "Declining a gift must not impact service quality or commercial relations.",
+      "Gifts from vendors undergoing performance review should be refused.",
+      "Vendor representatives must be informed of our policy clearly.",
+      "A professional boundary must be maintained regardless of vendor familiarity."
+    ],
+    "examples": [
+      "€40 bottle of wine offered by an underperforming vendor.",
+      "Chocolates sent after a critical feedback meeting.",
+      "€20 movie tickets from a vendor during renewal negotiation.",
+      "A longstanding vendor insisting a gift is ‘customary’ and ‘expected.’",
+      "€30 restaurant voucher offered by a vendor whose CEO is a friend."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts from vendors must never influence vendor selection decisions.",
+        "answer": "True",
+        "explanation": "Gift giving should not factor into procurement processes to avoid favoritism.",
+        "difficulty": "Easy",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "Declining a gift from a vendor may result in a justified downgrade of service quality.",
+        "answer": "False",
+        "explanation": "Vendors must not alter service quality based on gift acceptance or rejection.",
+        "difficulty": "Medium",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "It is acceptable to accept a €30 restaurant voucher from a vendor if the CEO is a personal friend.",
+        "answer": "False",
+        "explanation": "Personal ties do not override gift policy obligations and create conflict-of-interest risks.",
+        "difficulty": "Medium",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "Vendors currently under performance review should not be offering gifts.",
+        "answer": "True",
+        "explanation": "Accepting gifts during reviews could undermine objectivity and transparency.",
+        "difficulty": "Easy",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "A vendor may be informed of gift rules only if they ask first.",
+        "answer": "False",
+        "explanation": "Employees are expected to proactively communicate gift rules to vendors.",
+        "difficulty": "Hard",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "Receiving small tokens repeatedly from a vendor may create an informal sense of obligation.",
+        "answer": "True",
+        "explanation": "Such 'favor banks' can impair objectivity over time and should be avoided.",
+        "difficulty": "Medium",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "Familiarity with a vendor justifies relaxing gift policy enforcement.",
+        "answer": "False",
+        "explanation": "Professional boundaries must be maintained regardless of personal rapport.",
+        "difficulty": "Easy",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "Gift offers from vendors during contract renewal discussions are a red flag.",
+        "answer": "True",
+        "explanation": "Such timing raises concerns about influencing business outcomes and must be declined.",
+        "difficulty": "Medium",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      },
+      {
+        "statement": "Chocolates sent after negative feedback may be accepted if they ease tension.",
+        "answer": "False",
+        "explanation": "Gifts intended to influence or ‘smooth over’ critical evaluations are inappropriate.",
+        "difficulty": "Hard",
+        "scrollNumber": 9,
+        "scrollTitle": "Scroll: Vendor Relationship Boundaries"
+      }
+    ]
+  },
+  {
+    "scroll_number": 10,
+    "tier": 2,
+    "tierName": "Intermediate (2/4)",
+    "title": "Scroll: Cultural Norms and Local Practices",
+    "rules": [
+      "Cultural customs may allow small symbolic gifts, but internal policies still apply.",
+      "Compliance standards override local norms/customs if there is a conflict.",
+      "Gifts given out of politeness or ritual (e.g., Lunar New Year) must still follow value and purpose guidelines.",
+      "Employees are encouraged provide the cultural context when they register gifts.",
+      "Local policies may differ and for example may provide a lower maximum threshold. The strictest rule applies.",
+      "Cultural gifts that are inappropriate, lavish, or timed near business decisions are still considered high risk."
+    ],
+    "examples": [
+      "€35 red envelope (hongbao) with cash offered by a Chinese distributor during Lunar New Year.",
+      "€30 traditional sweets presented during Eid by a business partner.",
+      "€45 ceremonial scarf offered in a regional welcome ritual.",
+      "€20 bottle of sake given during a Japanese end-of-year business dinner.",
+      "€40 Diwali gift basket sent by a supplier, with delivery confirmed before contract renewal."
+    ],
+    "questions": [
+      {
+        "statement": "Cultural customs may justify accepting gifts that violate company policy.",
+        "answer": "False",
+        "explanation": "While cultural context is considered, company policy and compliance rules take precedence.",
+        "difficulty": "Easy",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "A €35 cash-filled red envelope offered during Lunar New Year is acceptable if culturally appropriate.",
+        "answer": "False",
+        "explanation": "Cash is prohibited, even if given as part of a cultural tradition.",
+        "difficulty": "Medium",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "If cultural gifts are low in value and transparent, they may be accepted and registered.",
+        "answer": "True",
+        "explanation": "Symbolic, non-lavish gifts with a clear business context may be permitted with registration.",
+        "difficulty": "Easy",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "The strictest applicable rule—whether local or global—always applies to gifts.",
+        "answer": "True",
+        "explanation": "Where local rules are stricter, those take precedence to ensure proper compliance.",
+        "difficulty": "Medium",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "Providing cultural context when registering a gift is recommended.",
+        "answer": "True",
+        "explanation": "Context helps Compliance assess the intent and appropriateness of the gift.",
+        "difficulty": "Easy",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "Lavish cultural gifts are acceptable as long as they are traditional.",
+        "answer": "False",
+        "explanation": "Cultural norms do not justify extravagant gifts that may appear to influence decisions.",
+        "difficulty": "Medium",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "A ceremonial scarf given in a welcome ritual must be reported if its value is unclear.",
+        "answer": "True",
+        "explanation": "Unclear-value or symbolic gifts must still be logged to ensure transparency.",
+        "difficulty": "Hard",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "Cultural gifts must not be timed near key decision-making moments.",
+        "answer": "True",
+        "explanation": "Timing may suggest undue influence, even for traditional gifts.",
+        "difficulty": "Medium",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      },
+      {
+        "statement": "Gifts offered during holidays are always exempt from registration.",
+        "answer": "False",
+        "explanation": "All gifts—regardless of season—must follow the same compliance process.",
+        "difficulty": "Hard",
+        "scrollNumber": 10,
+        "scrollTitle": "Scroll: Cultural Norms and Local Practices"
+      }
+    ]
+  },
+  {
+    "scroll_number": 11,
+    "tier": 3,
+    "tierName": "Mission Master (3/4)",
+    "title": "Scroll: Hospitality vs. Gifts",
+    "rules": [
+      "Hospitality (e.g. meals, drinks, tickets) when the host is present at the event are considered hospitality. These events are therefore covered by the Hospitality Policy",
+      "Unaccompanied hospitality (e.g. sending tickets without attending) is a gift, not hospitality.",
+      "Meals with government officials must follow strict thresholds or be pre-cleared by compliance.",
+      "High-value hospitality must be justified and proportionate to the business context.",
+      "Hospitality should never be lavish or create the appearance of favoritism.",
+      "Unaccompanied hospitality (e.g. sending tickets without attending) must be registered as a gift and must meet all policy requirements for gifts."
+    ],
+    "examples": [
+      "€80 dinner with supplier, both parties present — considered compliant hospitality.",
+      "2 football match tickets sent by vendor, no host — this is a gift, not hospitality.",
+      "€55 sushi lunch hosted by government official — may require escalation.",
+      "Weekend retreat for top clients including spa access — likely non-compliant.",
+      "€45 catered lunch during team onboarding with vendor present — likely compliant."
+    ],
+    "questions": [
+      {
+        "statement": "Hospitality is considered a gift if the host is not present.",
+        "answer": "True",
+        "explanation": "Unaccompanied hospitality, like tickets or meals without the host, falls under the gift policy.",
+        "difficulty": "Easy",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "A business dinner with a client where both parties are present qualifies as compliant hospitality.",
+        "answer": "True",
+        "explanation": "This is considered hospitality and may be acceptable if reasonable and business-related.",
+        "difficulty": "Easy",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "Sending concert tickets to a customer without attending is covered by the Hospitality Policy.",
+        "answer": "False",
+        "explanation": "Unaccompanied entertainment is classified as a gift and must comply with gift policy rules.",
+        "difficulty": "Medium",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "Lavish hospitality is permitted if it helps build client relationships.",
+        "answer": "False",
+        "explanation": "Even hospitality must be proportionate and never create the appearance of favoritism.",
+        "difficulty": "Medium",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "Meals with government officials must be carefully reviewed and may need pre-approval.",
+        "answer": "True",
+        "explanation": "Strict rules often apply to interactions with public officials, including hospitality.",
+        "difficulty": "Medium",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "You don’t need to register unaccompanied hospitality if the value is under €50.",
+        "answer": "False",
+        "explanation": "Unaccompanied hospitality is a gift and must meet all registration and policy requirements.",
+        "difficulty": "Hard",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "Hospitality is never subject to value thresholds or scrutiny.",
+        "answer": "False",
+        "explanation": "All hospitality must be appropriate, reasonable, and justified in the business context.",
+        "difficulty": "Hard",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "Catering during onboarding with the vendor present is considered hospitality.",
+        "answer": "True",
+        "explanation": "This falls under hospitality since the host is present and the context is business-related.",
+        "difficulty": "Easy",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      },
+      {
+        "statement": "Weekend spa retreats for top clients are compliant if they build goodwill.",
+        "answer": "False",
+        "explanation": "Lavish or recreational hospitality, especially without strong justification, is generally non-compliant.",
+        "difficulty": "Hard",
+        "scrollNumber": 11,
+        "scrollTitle": "Scroll: Hospitality vs. Gifts"
+      }
+    ]
+  },
+  {
+    "scroll_number": 12,
+    "tier": 3,
+    "tierName": "Mission Master (3/4)",
+    "title": "Scroll: Cultural Sensitivity vs. Policy Breach",
+    "rules": [
+      "Cultural norms (e.g. Lunar New Year, Eid) do not override the gift policy.",
+      "Cash or vouchers given as tradition must still be declined or returned.",
+      "Sensitivity does not mean exception — always politely refer to company policy.",
+      "Document attempts to give gifts, even if refused due to policy.",
+      "Employees may propose alternative thank-you gestures in line with rules.",
+      "Deviation from the rules is allowed only when pre-cleared by Compliance."
+    ],
+    "examples": [
+      "€45 in a red envelope from a Chinese business partner.",
+      "Sweets offered during Diwali by a local distributor.",
+      "€60 commemorative coin received from a Korean supplier.",
+      "Cultural scarf offered in a gift exchange ceremony.",
+      "Traditional Turkish delight presented during holiday visits."
+    ],
+    "questions": [
+      {
+        "statement": "Cultural customs like Lunar New Year allow exceptions to the no-cash-gift rule.",
+        "answer": "False",
+        "explanation": "Cash is always prohibited, regardless of cultural traditions.",
+        "difficulty": "Easy",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "If you decline a culturally traditional gift, it's still important to record the offer.",
+        "answer": "True",
+        "explanation": "Documenting gift offers, even when refused, ensures transparency and compliance.",
+        "difficulty": "Easy",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "Employees can suggest policy-compliant thank-you gestures instead of accepting gifts.",
+        "answer": "True",
+        "explanation": "Proposing compliant alternatives respects both culture and policy.",
+        "difficulty": "Medium",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "Receiving a €45 red envelope is fine as long as you log it.",
+        "answer": "False",
+        "explanation": "Cash gifts are non-compliant even if registered.",
+        "difficulty": "Medium",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "Company policy can be set aside for gifts received during religious festivals.",
+        "answer": "False",
+        "explanation": "Cultural sensitivity is important, but policy rules still apply.",
+        "difficulty": "Hard",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "Employees may accept traditional sweets if the value is low and given openly.",
+        "answer": "True",
+        "explanation": "Low-value, symbolic gifts like sweets may be acceptable if they meet other policy criteria.",
+        "difficulty": "Easy",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "A commemorative coin from a cultural celebration should always be accepted.",
+        "answer": "False",
+        "explanation": "If valuable or cash-like, such gifts may still be non-compliant despite cultural context.",
+        "difficulty": "Hard",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "Pre-clearance from Compliance allows deviation from gift policy in rare cultural cases.",
+        "answer": "True",
+        "explanation": "Exceptions may be granted when approved in advance by Compliance.",
+        "difficulty": "Medium",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      },
+      {
+        "statement": "Offering policy explanations when rejecting a gift can prevent offense and maintain relationships.",
+        "answer": "True",
+        "explanation": "Polite communication of policy protects both the employee and the relationship.",
+        "difficulty": "Medium",
+        "scrollNumber": 12,
+        "scrollTitle": "Scroll: Cultural Sensitivity vs. Policy Breach"
+      }
+    ]
+  },
+  {
+    "scroll_number": 13,
+    "tier": 3,
+    "tierName": "Mission Master (3/4)",
+    "title": "Scroll: Gifts to Government Officials",
+    "rules": [
+      "Gifts must never be given to or accepted from public officials or their relatives.",
+      "Extra caution is required when hosting or entertaining public servants.",
+      "Compliance with both local laws and company policy is mandatory. The strictest rule applies",
+      "Offering a gift to a regulator is not allowed, as they qualify as a government official.",
+      "If in doubt, consult your Compliance Officer."
+    ],
+    "examples": [
+      "€30 branded pen offered to customs inspector.",
+      "€20 box of chocolates sent to a regulator’s assistant.",
+      "Invitation for a public official to attend client dinner.",
+      "€10 calendar sent by a local sales rep to city hall contact.",
+      "Notebook with logo handed to a tax inspector during audit."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts may be offered to government officials if the value is below €50.",
+        "answer": "False",
+        "explanation": "Gifts to public officials are prohibited regardless of value.",
+        "difficulty": "Easy",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "Offering a branded pen to a customs officer is non-compliant.",
+        "answer": "True",
+        "explanation": "Even branded low-value items are not allowed when dealing with public officials.",
+        "difficulty": "Medium",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "Inviting a regulator to a business dinner is a form of hospitality that must be avoided.",
+        "answer": "True",
+        "explanation": "Entertaining public officials poses high risk and typically requires pre-approval or is disallowed.",
+        "difficulty": "Hard",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "If a city hall employee requests a €10 gift, it must be refused and reported to compliance.",
+        "answer": "True",
+        "explanation": "Even small gifts are not allowed if the recipient is a public servant.",
+        "difficulty": "Medium",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "You should consult Compliance in case you consider giving gifts to regulators or tax officials.",
+        "answer": "True",
+        "explanation": "As it is not allowed to offer gifts to government officials, giving a gift would requiere an exception/waiver from Compliance.",
+        "difficulty": "Easy",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "Government officials can be offered promotional items below €20.",
+        "answer": "False",
+        "explanation": "The rules prohibit gifts to government officials regardless of value.",
+        "difficulty": "Hard",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "A box of chocolates for a public official’s assistant is acceptable if it's culturally customary.",
+        "answer": "False",
+        "explanation": "Cultural norms do not override policy—gifts to officials or their aides are prohibited.",
+        "difficulty": "Hard",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "If unsure whether someone is considered a government official, treat the situation with caution.",
+        "answer": "True",
+        "explanation": "When in doubt, treat the person as a public official and seek Compliance guidance.",
+        "difficulty": "Medium",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      },
+      {
+        "statement": "Offering gifts or hospitality to a regulator can be compliant if it’s low-value and fully documented.",
+        "answer": "False",
+        "explanation": "Such actions are generally prohibited; any interaction with regulators requires strict control or approval.",
+        "difficulty": "Hard",
+        "scrollNumber": 13,
+        "scrollTitle": "Scroll: Gifts to Government Officials"
+      }
+    ]
+  },
+  {
+    "scroll_number": 14,
+    "tier": 3,
+    "tierName": "Mission Master (3/4)",
+    "title": "Scroll: Third-Party Intermediaries",
+    "rules": [
+      "Gifts given through agents, consultants, or brokers are subject to the same rules.",
+      "Indirect gifts are still a risk — follow the trace to the recipient.",
+      "Third-party vendors should be contractually bound by our gift policies.",
+      "We are responsible for gifts made on our behalf, even if outsourced.",
+      "Register and report intermediary gifts promptly to avoid compliance issues."
+    ],
+    "examples": [
+      "€35 wine offered by consultant hired by our vendor.",
+      "€50 spa voucher given to employee by a contracted recruiter.",
+      "€20 ornament gifted by subcontractor at project closeout.",
+      "€45 umbrella branded with vendor logo passed through agency.",
+      "€15 phone case given by a marketing firm subcontracted by us."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts given through consultants or brokers must follow the same rules as direct gifts.",
+        "answer": "True",
+        "explanation": "Third-party gifts are still subject to the same compliance rules.",
+        "difficulty": "Easy",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "If a subcontractor gives a gift on their own initiative, our company is not responsible.",
+        "answer": "False",
+        "explanation": "We remain responsible for gifts made on our behalf, even if indirectly.",
+        "difficulty": "Medium",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "Third-party vendors should agree in writing to follow our gift policy.",
+        "answer": "True",
+        "explanation": "Contracts should bind third parties to our compliance standards.",
+        "difficulty": "Easy",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "A €35 gift passed through an agency is exempt from registration.",
+        "answer": "False",
+        "explanation": "All gifts also intermediary gifts, must be registered to maintain transparency.",
+        "difficulty": "Medium",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "Indirect gifts are lower risk than direct ones if the value is modest.",
+        "answer": "False",
+        "explanation": "Indirect gifts can still create serious compliance risks regardless of value.",
+        "difficulty": "Hard",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "€15 gifts from a contracted marketing firm should be logged if offered to employees.",
+        "answer": "True",
+        "explanation": "Even small gifts from intermediaries must be recorded.",
+        "difficulty": "Easy",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "Compliance is not needed for intermediary gifts if the third party operates independently.",
+        "answer": "False",
+        "explanation": "Independence does not remove our responsibility for gifts made on our behalf.",
+        "difficulty": "Hard",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "A gift given by a recruiter after successful placement must be reviewed.",
+        "answer": "True",
+        "explanation": "Third-party gifts should be registered and assessed for appropriateness.",
+        "difficulty": "Medium",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      },
+      {
+        "statement": "It’s okay to accept a gift from a subcontractor if they are not listed as a formal vendor.",
+        "answer": "False",
+        "explanation": "Subcontractors are still considered intermediaries and covered by the gift policy.",
+        "difficulty": "Hard",
+        "scrollNumber": 14,
+        "scrollTitle": "Scroll: Third-Party Intermediaries"
+      }
+    ]
+  },
+  {
+    "scroll_number": 15,
+    "tier": 3,
+    "tierName": "Mission Master (3/4)",
+    "title": "Scroll: Special Events and Sponsorship",
+    "rules": [
+      "Event giveaways must follow the same rules as individual gifts.",
+      "Sponsorship-branded items (e.g. caps, tote bags) must be low-value and open to all.",
+      "Exclusive items for select individuals may be considered inappropriate.",
+      "Transparency is required when sponsoring events involving clients or vendors.",
+      "Use company channels to register and approve any sponsored materials.",
+      "Lavish gift bags at conferences must be avoided, even if industry standard."
+    ],
+    "examples": [
+      "€45 headphones in a VIP swag bag at industry conference.",
+      "Tote bag and €10 notebook handed out at a booth to all visitors.",
+      "€25 branded water bottle given to panel speakers only.",
+      "Custom hoodie with embroidered logo for top 10 attendees.",
+      "€30 scented candle given to key clients after speaking session."
+    ],
+    "questions": [
+      {
+        "statement": "All giveaways at sponsored events must comply with the gift policy.",
+        "answer": "True",
+        "explanation": "Event giveaways are still considered gifts and must follow policy rules.",
+        "difficulty": "Easy",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "€55 headphones in a VIP swag bag are fine if others receive smaller items.",
+        "answer": "False",
+        "explanation": "High-value exclusive items are not appropriate, even for VIPs.",
+        "difficulty": "Medium",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "It is recommended that sponsorship-branded gifts must be available to all participants equally.",
+        "answer": "True",
+        "explanation": "Fair and open distribution reduces compliance risk.",
+        "difficulty": "Easy",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "Gift bags with luxury items are acceptable if it's standard in the industry.",
+        "answer": "False",
+        "explanation": "Industry norms do not override internal policies against lavish gifting.",
+        "difficulty": "Hard",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "Sponsoring an event where only select clients receive expensive items is a red flag.",
+        "answer": "True",
+        "explanation": "Selective giving can be perceived as favoritism or undue influence.",
+        "difficulty": "Medium",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "A €10 branded notebook distributed to all attendees is likely compliant.",
+        "answer": "True",
+        "explanation": "Low-value, openly distributed items generally pose minimal risk.",
+        "difficulty": "Easy",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "Lavish items may be excluded from registration if part of an event package.",
+        "answer": "False",
+        "explanation": "Lavish items must be reviewed and registered, regardless of packaging.",
+        "difficulty": "Hard",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "Exclusive speaker gifts should be reported and registered.",
+        "answer": "True",
+        "explanation": "Special items for a few individuals require transparency and review.",
+        "difficulty": "Medium",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      },
+      {
+        "statement": "Event organizers are responsible for compliance, not the sponsoring company.",
+        "answer": "False",
+        "explanation": "The company must ensure its sponsored activities align with policy.",
+        "difficulty": "Hard",
+        "scrollNumber": 15,
+        "scrollTitle": "Scroll: Special Events and Sponsorship"
+      }
+    ]
+  },
+  {
+    "scroll_number": 16,
+    "tier": 3,
+    "tierName": "Mission Master (3/4)",
+    "title": "Scroll: Cumulative and Repeat Gifting",
+    "rules": [
+      "Multiple small gifts from the same source can add up and become non-compliant.",
+      "Gifts must not only be evaluated individually, but also cumulatively over a longer period.",
+      "Frequent gifting, even of low-value items, may create the appearance of undue influence.",
+      "Gifts are tracked in a centralized register to enable monitoring the frequency and total value.",
+      "The Compliance department reserves the right to prohibit the offering or acceptance of a gift, even if it appears compliant. This may be based on additional context or information not available to the employee.",
+      "Repeat gifting from the same vendor may require additional justification or refusal."
+    ],
+    "examples": [
+      "Monthly €10 coffee vouchers sent by a consulting firm.",
+      "Three €20 desk accessories received over six months from a tech vendor.",
+      "€15 chocolates at Christmas, €20 pen at Easter, €30 gift at New Year from the same client.",
+      "Quarterly branded notebooks (€12 each) from the same supplier.",
+      "€25 restaurant voucher received four times a year from logistics partner."
+    ],
+    "questions": [
+      {
+        "statement": "Small gifts given repeatedly by the same vendor may become non-compliant.",
+        "answer": "True",
+        "explanation": "Even low-value gifts can accumulate over time and appear inappropriate.",
+        "difficulty": "Easy",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "Each gift must only be evaluated individually for compliance.",
+        "answer": "False",
+        "explanation": "Gifts must be evaluated both individually and cumulatively.",
+        "difficulty": "Medium",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "€10 gift cards sent monthly over a year would not trigger compliance concerns.",
+        "answer": "False",
+        "explanation": "Repeated gifts from the same source can create the appearance of influence.",
+        "difficulty": "Hard",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "Registering gifts in a central system helps monitor gifting patterns.",
+        "answer": "True",
+        "explanation": "Tracking helps identify excessive or repeat gifting behavior.",
+        "difficulty": "Easy",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "Repeat gifting from the same vendor may require extra justification.",
+        "answer": "True",
+        "explanation": "Frequent gifts raise concerns and require stronger business justification.",
+        "difficulty": "Medium",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "Three €20 gifts over six months do not need to be reported.",
+        "answer": "False",
+        "explanation": "Gifts must be tracked and registered regardless of timing or value.",
+        "difficulty": "Medium",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "Compliance can prohibit a gift even if it appears compliant.",
+        "answer": "True",
+        "explanation": "Additional context may justify rejecting seemingly acceptable gifts.",
+        "difficulty": "Easy",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "A vendor sending quarterly €12 notebooks is likely violating the gift policy.",
+        "answer": "False",
+        "explanation": "The pattern may be questionable but needs to be evaluated case-by-case.",
+        "difficulty": "Hard",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      },
+      {
+        "statement": "If you notice frequent gifts from the same source, it's best to escalate to Compliance.",
+        "answer": "True",
+        "explanation": "Employees may not see full cumulative patterns, but should raise concerns about recurring gifts.",
+        "difficulty": "Medium",
+        "scrollNumber": 16,
+        "scrollTitle": "Scroll: Cumulative and Repeat Gifting"
+      }
+    ]
+  },
+  {
+    "scroll_number": 17,
+    "tier": 4,
+    "tierName": "Champion (4/4)",
+    "title": "Scroll: Gifts vs. Bribes – Contextual Clues",
+    "rules": [
+      "A gift becomes a bribe if it is intended to influence a decision or secure unfair advantage.",
+      "Timing is critical — gifts offered right before or after business decisions are high risk.",
+      "Gifts that coincide with negotiation periods or approval processes raise red flags.",
+      "Context, timing, personalization, and delivery can make an otherwise compliant gift non-compliant.",
+      "The recipient's role and decision-making power must be considered when offering a gift.",
+      "When in doubt, refuse the gift, register it and contact your compliance officer."
+    ],
+    "examples": [
+      "€40 gift basket given to a procurement officer one day after contract signature.",
+      "€45 concert tickets offered during final contract negotiations.",
+      "€25 wine bottle discreetly left on a manager’s desk with no sender note.",
+      "€20 scarf gifted openly at a supplier onboarding session.",
+      "€50 branded item delivered the day before a tender decision."
+    ],
+    "questions": [
+      {
+        "statement": "A gift is considered a bribe if it is meant to influence a decision.",
+        "answer": "True",
+        "explanation": "Intent to gain unfair advantage or influence a decision turns a gift into a bribe.",
+        "difficulty": "Easy",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "Timing doesn’t matter if the gift is below the threshold.",
+        "answer": "False",
+        "explanation": "Gifts given near business decisions raise suspicion regardless of value.",
+        "difficulty": "Medium",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "€25 wine left anonymously on a manager’s desk is compliant because it’s low value.",
+        "answer": "False",
+        "explanation": "Anonymity and delivery context make this gift suspicious.",
+        "difficulty": "Hard",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "Gifts during contract negotiations should be automatically refused.",
+        "answer": "True",
+        "explanation": "Gifts during sensitive decision-making periods pose high risk.",
+        "difficulty": "Easy",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "Personalized gifts can sometimes be perceived as attempts to influence.",
+        "answer": "True",
+        "explanation": "Customization increases perceived intention and non-compliance risk.",
+        "difficulty": "Medium",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "You can accept a €45 concert ticket during a pricing negotiation as long as you disclose it.",
+        "answer": "False",
+        "explanation": "Disclosure does not justify accepting a risky gift during negotiations.",
+        "difficulty": "Hard",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "Gifts offered right before or after contract awards are considered red flags.",
+        "answer": "True",
+        "explanation": "Timing creates a strong perception of attempted influence.",
+        "difficulty": "Easy",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "The role of the gift recipient has no impact on the gift’s compliance.",
+        "answer": "False",
+        "explanation": "Decision-makers receiving gifts face stricter scrutiny and risk.",
+        "difficulty": "Medium",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      },
+      {
+        "statement": "A €20 scarf given during onboarding is likely compliant.",
+        "answer": "True",
+        "explanation": "Open delivery in a low-risk context can make a gift acceptable.",
+        "difficulty": "Hard",
+        "scrollNumber": 17,
+        "scrollTitle": "Scroll: Gifts vs. Bribes – Contextual Clues"
+      }
+    ]
+  },
+  {
+    "scroll_number": 18,
+    "tier": 4,
+    "tierName": "Champion (4/4)",
+    "title": "Scroll: Split Gifting and Indirect Influence",
+    "rules": [
+      "Splitting a high-value gift into smaller parts to stay under thresholds is non-compliant.",
+      "Multiple gifts from the same source over time must be viewed cumulatively.",
+      "Gifts offered to family members of employees are treated as indirect gifts.",
+      "Offering gifts to spouses or partners may be perceived as undue influence.",
+      "Repetitive low-value gifts can signal intent to build influence.",
+      "All gift patterns should be evaluated over time, not in isolation."
+    ],
+    "examples": [
+      "Three €20 gift cards received in separate weeks from the same vendor.",
+      "€35 perfume gifted to an employee’s spouse by a consultant.",
+      "€15 box of chocolates sent monthly by the same courier service.",
+      "€40 dinner invitation extended only to the employee’s partner.",
+      "€45 plant delivered quarterly by a friendly supplier account manager."
+    ],
+    "questions": [
+      {
+        "statement": "Splitting a €60 gift into three €20 parts to bypass the threshold is acceptable.",
+        "answer": "False",
+        "explanation": "Splitting gifts to remain under the limit is considered an attempt to circumvent the policy.",
+        "difficulty": "Easy",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "Multiple low-value gifts from the same vendor over time must be evaluated as a pattern.",
+        "answer": "True",
+        "explanation": "Cumulative value and repeated gifting may indicate an attempt to build influence.",
+        "difficulty": "Medium",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "Gifts given to family members of employees are not subject to compliance rules.",
+        "answer": "False",
+        "explanation": "Gifts to relatives are considered indirect gifts and must follow the same policy.",
+        "difficulty": "Hard",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "A vendor sending €15 chocolates monthly is not problematic since each gift is under €50.",
+        "answer": "False",
+        "explanation": "Repetitive low-value gifts create a pattern and raise compliance concerns.",
+        "difficulty": "Medium",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "Offering a €40 dinner invitation to an employee’s spouse may be seen as undue influence.",
+        "answer": "True",
+        "explanation": "Targeting an employee's partner may be an indirect method of exerting influence.",
+        "difficulty": "Hard",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "Evaluating gifts in isolation may miss compliance risks tied to frequency or timing.",
+        "answer": "True",
+        "explanation": "Even small, compliant gifts may become problematic when part of a broader pattern — Compliance has access to the full context.",
+        "difficulty": "Easy",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "Vendors are expected to respect company policy. Compliance has access to data to monitor cumulative gifting.",
+        "answer": "True",
+        "explanation": "Employees can't track vendor-wide gifting — patterns should be flagged by Compliance with the right tools in place.",
+        "difficulty": "Medium",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "€35 perfume given to a spouse by a consultant is acceptable if disclosed.",
+        "answer": "False",
+        "explanation": "Indirect gifting to family members is risky and typically non-compliant.",
+        "difficulty": "Hard",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      },
+      {
+        "statement": "A quarterly €45 plant from a supplier could be perceived as a gift pattern.",
+        "answer": "True",
+        "explanation": "Frequent gifting can indicate a strategy to build undue rapport.",
+        "difficulty": "Medium",
+        "scrollNumber": 18,
+        "scrollTitle": "Scroll: Split Gifting and Indirect Influence"
+      }
+    ]
+  },
+  {
+    "scroll_number": 19,
+    "tier": 4,
+    "tierName": "Champion (4/4)",
+    "title": "Scroll: Industry-Specific and Government Sensitivities",
+    "rules": [
+      "In regulated industries, gift rules may be stricter than company policy.",
+      "Government-related entities typically prohibit gifts altogether.",
+      "In healthcare, finance, and defense sectors, zero-tolerance may apply.",
+      "Some jurisdictions legally prohibit gifts of any kind to government officials.",
+      "Employees must escalate any uncertain situations immediately.",
+      "When engaging with dual-role contacts (public + private), always assume the strictest rules."
+    ],
+    "examples": [
+      "€25 pen gifted to a hospital administrator after a sales call.",
+      "€35 branded mug sent to a central bank compliance officer.",
+      "€30 event invitation to a civil servant without clear purpose.",
+      "€20 gift to an official’s assistant after a meeting on regulatory review.",
+      "€50 souvenir sent to a city planning advisor by a developer."
+    ],
+    "questions": [
+      {
+        "statement": "Gifting a €25 pen to a hospital administrator is always allowed under company rules.",
+        "answer": "False",
+        "explanation": "Healthcare often has stricter gift rules, and public hospitals may follow government policies that prohibit gifts.",
+        "difficulty": "Medium",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "Some government institutions enforce complete gift bans, even for low-value items.",
+        "answer": "True",
+        "explanation": "Many jurisdictions legally prohibit all gifts to public officials, regardless of value.",
+        "difficulty": "Easy",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "Employees working with regulators should follow the more lenient of the two policies: company or local.",
+        "answer": "False",
+        "explanation": "The strictest rule always applies when engaging with public officials or regulated entities.",
+        "difficulty": "Medium",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "A €30 gift offered to a civil servant without clear purpose can raise compliance concerns.",
+        "answer": "True",
+        "explanation": "Lack of justification combined with recipient role makes such gifts non-compliant.",
+        "difficulty": "Easy",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "Gifts to public officials are acceptable as long as the intent is appreciation, not influence.",
+        "answer": "False",
+        "explanation": "Intent does not override the legal or policy restrictions regarding gifts to government officials.",
+        "difficulty": "Hard",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "Finance and defense industries generally tolerate moderate gifting within company thresholds.",
+        "answer": "False",
+        "explanation": "To the contrary these sectors often have zero-tolerance or highly restrictive policies.",
+        "difficulty": "Hard",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "A €20 gift to a regulator’s assistant is not allowed under the Gifts Policy.",
+        "answer": "True",
+        "explanation": "Assistants to public officials are subject to the same restrictions as government officials.",
+        "difficulty": "Medium",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "Dual-role contacts (private company + public sector position) should be treated as public officials.",
+        "answer": "True",
+        "explanation": "To minimize risk, the strictest interpretation of role and compliance should apply.",
+        "difficulty": "Medium",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      },
+      {
+        "statement": "If unsure about gifting rules in a regulated industry, it's acceptable to rely on personal judgment.",
+        "answer": "False",
+        "explanation": "Uncertainty must be escalated to the compliance department to avoid regulatory breaches.",
+        "difficulty": "Easy",
+        "scrollNumber": 19,
+        "scrollTitle": "Scroll: Industry-Specific and Government Sensitivities"
+      }
+    ]
+  },
+  {
+    "scroll_number": 20,
+    "tier": 4,
+    "tierName": "Champion (4/4)",
+    "title": "Scroll: Exceptions/Waivers, Justifications & Documentation",
+    "rules": [
+      "Any gift outside of policy must be justified in writing and requires prior approval from compliance via a waiver/exception request.",
+      "Documentation must include the gift’s purpose, value, and context.",
+      "Exception approvals are only valid with proper escalation and transparency.",
+      "Assumed verbal approval is not a substitute for documentation.",
+      "Poorly documented gifts may be interpreted as concealment.",
+      "Exception/waiver handling must be consistent, traceable, and reviewed regularly."
+    ],
+    "examples": [
+      "€60 cultural artifact gifted during an international summit, logged with legal.",
+      "€75 local crafts presented as part of a diplomacy event, approved by compliance.",
+      "€55 gourmet food box accepted due to regional custom, justified and filed.",
+      "€40 gift offered during a funeral ceremony, approved under exception policy.",
+      "€30 restaurant voucher from a vendor as a compensation for a missed appointment accepted off-hours and logged via the mobile tool."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts that do not comply with the Gift Policy can be accepted if verbally approved by a manager.",
+        "answer": "False",
+        "explanation": "Verbal approval is insufficient. Written documentation and prior approval from compliance (waiver) are required.",
+        "difficulty": "Easy",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "An exception to the gift policy must be documented with purpose, value, and context.",
+        "answer": "True",
+        "explanation": "Proper documentation is required for Compliance to assess the waiver request and essential for traceability and audit readiness.",
+        "difficulty": "Easy",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "A €60 gift accepted at a diplomatic event must still be registered and justified through a waiver.",
+        "answer": "True",
+        "explanation": "Even culturally justified gifts need official exception approval.",
+        "difficulty": "Medium",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "Gifts accepted without documentation may be interpreted as concealment.",
+        "answer": "True",
+        "explanation": "Lack of transparency suggests non-compliance or intentional omission.",
+        "difficulty": "Medium",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "Assumed past approvals for similar gifts can be used in future situations without reapproval.",
+        "answer": "False",
+        "explanation": "Each exception must be handled independently and re-evaluated.",
+        "difficulty": "Medium",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "€40 gift accepted during a funeral ceremony can be allowed if registered and justified.",
+        "answer": "True",
+        "explanation": "Context-sensitive exceptions may be approved if documented and policy-compliant.",
+        "difficulty": "Hard",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "Compliance officers are allowed to deny exceptions, even if documented.",
+        "answer": "True",
+        "explanation": "Approval is not guaranteed — compliance retains final discretion.",
+        "difficulty": "Medium",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "Waivers can be granted retroactively if the gift was low-value and well-intentioned.",
+        "answer": "False",
+        "explanation": "Retroactive approval is risky and generally not permitted.",
+        "difficulty": "Hard",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      },
+      {
+        "statement": "Exception tracking must be consistent, regularly reviewed, and accessible to audit.",
+        "answer": "True",
+        "explanation": "This ensures accountability and policy integrity.",
+        "difficulty": "Easy",
+        "scrollNumber": 20,
+        "scrollTitle": "Scroll: Exceptions/Waivers, Justifications & Documentation"
+      }
+    ]
+  },
+  {
+    "scroll_number": 21,
+    "tier": 4,
+    "tierName": "Champion (4/4)",
+    "title": "Scroll: Detection of Concealed Gifts",
+    "rules": [
+      "Gifts disguised as promotional items must still meet policy criteria.",
+      "Fake invoices or inflated expense claims used to hide gifts are fraud.",
+      "Use of third-party intermediaries to deliver gifts raises red flags.",
+      "Packaging without sender info or excessive anonymity is a compliance risk.",
+      "Unusual delivery timing (e.g., late at night) may indicate concealment.",
+      "All such incidents should be escalated to compliance or internal audit."
+    ],
+    "examples": [
+      "€45 “conference materials” delivered with no sender and containing alcohol.",
+      "€50 product testing fee refunded with a surprise luxury pen enclosed.",
+      "€30 branded umbrella included in shipment labeled 'regulatory forms'.",
+      "€25 meal voucher sent via external courier with no documentation.",
+      "€40 branded coffee kit addressed to 'Admin Desk' with no contact info."
+    ],
+    "questions": [
+      {
+        "statement": "Gifts labeled as 'conference materials' must still comply with the gift policy.",
+        "answer": "True",
+        "explanation": "Mislabeling doesn't exempt items from compliance requirements.",
+        "difficulty": "Easy",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "Anonymously delivered gifts raise compliance concerns and should be escalated.",
+        "answer": "True",
+        "explanation": "Lack of sender transparency is a red flag for concealment.",
+        "difficulty": "Easy",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "It is acceptable to include a gift with regulatory documents if the value is under the threshold.",
+        "answer": "False",
+        "explanation": "Even compliant-value gifts must not be hidden in official materials.",
+        "difficulty": "Medium",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "A luxury item enclosed with an inflated invoice may be considered fraud.",
+        "answer": "True",
+        "explanation": "Using fake expenses to conceal gifts constitutes fraud and violates both policy and law.",
+        "difficulty": "Hard",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "Gifts delivered to general office areas without documentation are lower risk than direct gifts.",
+        "answer": "False",
+        "explanation": "Lack of traceability and context increases compliance risks regardless of delivery point.",
+        "difficulty": "Medium",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "Third-party delivery of undisclosed gifts should be reported to Compliance immediately.",
+        "answer": "True",
+        "explanation": "Using intermediaries to obscure source or intent is a known concealment tactic.",
+        "difficulty": "Hard",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "Late-night delivery of gifts may indicate an attempt to avoid scrutiny.",
+        "answer": "True",
+        "explanation": "Unusual delivery timing is a contextual red flag and warrants escalation.",
+        "difficulty": "Medium",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "Branded items are always considered promotional and don’t require registration.",
+        "answer": "False",
+        "explanation": "Promotional items must still comply with thresholds and context rules.",
+        "difficulty": "Easy",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      },
+      {
+        "statement": "If the source of a gift is unclear, it is best to assume it's compliant until proven otherwise.",
+        "answer": "False",
+        "explanation": "Unclear origin increases compliance risk; such gifts should not be accepted or kept.",
+        "difficulty": "Hard",
+        "scrollNumber": 21,
+        "scrollTitle": "Scroll: Detection of Concealed Gifts"
+      }
+    ]
+  }
+]

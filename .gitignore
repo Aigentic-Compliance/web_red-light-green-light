@@ -1,0 +1,35 @@
+# Credentials, secrets, and environment variables
+.env
+.env.*
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+.firebase/
+
+# Unrelated source emails and private correspondence
+*.msg
+
+# Office temporary lock files & OS metadata
+~$*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Dependencies, logs, and caches
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+.cache/
+
+# Handover & raw archive bundles (kept out of source history)
+*handover*.zip
+BUTTONS SCREENS 16 - 9.zip
+
+# Root-level duplicate media files (canonical copies are tracked under /assets/)
+/*.mp4
+/girl tree.jpg
+/Image screen - Game explanation.png
+/Radar.png
