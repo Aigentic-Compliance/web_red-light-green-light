@@ -1,5 +1,7 @@
 # Technical Design Specification: Red Light - Green Light (S-Quit Boring Compliance)
 
+> **Deployment update (2026-11-05):** The first public deployment target is now Vercel. The runtime uses Vercel Functions with a Neon/Vercel Postgres database (`POSTGRES_URL`) for scroll storage, server-side question selection, and answer validation. The database-backed implementation in [`api/`](../../api/), [`db/`](../../db/), and [`scripts/seed-db.mjs`](../../scripts/seed-db.mjs) supersedes the earlier static-only/Firebase deployment notes below. The public package does not include `all_scrolls.json` or the embedded fallback question bank.
+
 - **Document Status:** Draft for review
 - **Date:** 2026-10-25
 - **Target Project:** `red-light-green-light-lab` (Firebase Hosting — First Public Demo)

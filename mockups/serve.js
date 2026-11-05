@@ -2,8 +2,8 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = 8085;
-const ROOT = path.resolve('E:/CGC/Google Immersion/Lab 1 - Game/Red-Light-Green-Light');
+const PORT = Number(process.env.PORT) || 8085;
+const ROOT = path.resolve(__dirname, '..');
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -36,9 +36,10 @@ const server = http.createServer((req, res) => {
     decodedUrl = req.url.split('?')[0];
   }
 
-  let filePath = path.join(ROOT, decodedUrl === '/' ? '/mockups/index.html' : decodedUrl);
+  const requestPath = decodedUrl === '/' ? '/mockups/index.html' : decodedUrl;
+  const filePath = path.resolve(ROOT, `.${requestPath}`);
 
-  if (!filePath.startsWith(ROOT)) {
+  if (filePath !== ROOT && !filePath.startsWith(ROOT + path.sep)) {
     res.writeHead(403);
     res.end('Forbidden');
     return;

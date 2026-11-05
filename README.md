@@ -17,7 +17,7 @@ Red-Light-Green-Light/
 │       └── 2026-10-25-red-light-green-light-technical-design-spec.docx  # Technical Design Spec (Word)
 ├── mockups/
 │   ├── index.html                                     # Single-page game application (HTML5/CSS3/ES6)
-│   ├── all_scrolls.json                               # Sanitized 21-mission (189-statement) question bank
+│   ├── all_scrolls.json                               # Local seed source; not deployed publicly
 │   ├── serve.js                                       # Zero-dependency Node.js local preview server
 │   └── screenshots/                                   # Verified desktop & mobile preview screenshots
 │       ├── opening-desktop.png
@@ -80,7 +80,7 @@ Red-Light-Green-Light/
 Once `node mockups/serve.js` is running:
 - **Primary Game URL:** [http://localhost:8085/mockups/index.html](http://localhost:8085/mockups/index.html)
 - **Root URL (auto-redirects to `/mockups/index.html`):** [http://localhost:8085/](http://localhost:8085/)
-- **Question Bank JSON URL:** [http://localhost:8085/mockups/all_scrolls.json](http://localhost:8085/mockups/all_scrolls.json)
+- **Question bank:** seeded into the database for Vercel deployments; it is not a public runtime URL.
 
 ---
 
@@ -101,15 +101,96 @@ Once `node mockups/serve.js` is running:
 
 ## 5. Known Limitations & Outstanding Work Before Public Release
 
-1. **Public-Content Clearance by Claudia (`claudia@aigenticcompliance.com`):**
-   - `mockups/all_scrolls.json` is fetched client-side and contains all 21 compliance missions (`189` statements and explanations). Claudia should confirm whether all 21 missions are cleared for public visibility in the first demo or whether the public JSON should be restricted to a subset (e.g., Beginner Scrolls 1–4).
-2. **Reviewer Top HUD Bar (`.reviewer-bar`) Visibility:**
-   - `mockups/index.html` currently renders a top preview toolbar (`RED LIGHT - GREEN LIGHT // PREVIEW`) with screen-jump buttons (`1. Opening` through `6. Victory`) for QA review. Before deploying to production, confirm whether to keep this bar visible for demo reviewers or hide it via CSS (`.reviewer-bar { display: none; }`).
-3. **Firebase Hosting Packaging & Relative Asset Paths (`red-light-green-light-lab`):**
-   - `mockups/index.html` fetches `all_scrolls.json` from its own directory (`mockups/`) and references media via `../assets/<filename>`.
-   - Neither `firebase.json` nor `.firebaserc` is committed yet so cloud configuration remains untouched prior to Mada's review. When deploying to Firebase Hosting, Mada should stage only the public runtime files (`index.html`, `all_scrolls.json`, and the 10 active runtime media files in `assets/`) into a clean `public/` folder and either configure a `/` → `/mockups/index.html` redirect in `firebase.json` (zero edits to `index.html`) or serve `index.html` at `/` with `../assets/` updated to `assets/`.
-   - Internal documentation (`docs/`, `AGENTS.md`, `.docx`, `.pptx`), `mockups/serve.js`, and unrelated source emails (`*.msg`) must remain excluded from Firebase Hosting.
-4. **External Google Fonts CDN Dependency:**
-   - At runtime, `mockups/index.html` loads `Chakra Petch`, `Press Start 2P`, and `Space Grotesk` from `https://fonts.googleapis.com` and `https://fonts.gstatic.com`. Confirm whether loading Google Fonts from Google's CDN is acceptable for public visitors or if font files should be self-hosted.
-5. **Minor Arena Media Handling Notes:**
-   - As documented in Section 2.6 of the Technical Design Specification, jumping directly between arena states via the Reviewer Bar hides inactive `<video>` elements via CSS (`opacity: 0`) without explicitly calling `.pause()` in `clearAllTimers()`, and `playPromise.catch` overwrites `stageTransitionTimer` without clearing the `6500ms` fallback timer ID (though the `transitioned` boolean latch prevents duplicate state transitions).
+### Release blockers
+
+1. **Public content and intellectual-property clearance**
+   - The database-backed deployment no longer publishes `all_scrolls.json` or embeds the question fallback in the browser. The API sends only the assigned mission study content and current statements needed by the active session; correct answers remain server-side until validation.
+   - The compliance content and Clau-Hee artwork must still be cleared for public use.
+   - Google Fonts are requested from Google's CDN. Self-host the fonts if visitor privacy or network independence requires it.
+2. **Preview controls in production**
+   - Reviewer navigation is hidden in the deployment copy of [`public/index.html`](public/index.html). It remains in [`mockups/index.html`](mockups/index.html) for local QA.
+3. **Production-browser verification**
+   - Test the deployed Vercel URL on current Chrome, Edge, Firefox, and Safari, plus a mobile browser. Video autoplay, media loading, viewport height, and touch controls can differ by browser.
+
+### Accepted first-demo limitations
+
+1. **No persistence or reporting**
+   - Answers, assigned missions, scores, and completion state exist only in browser memory. Refreshing or closing the page loses the session. There is no login, leaderboard, completion record, certificate, or administrator report.
+2. **No server-side content protection**
+   - The question bank and correct answers are downloaded to the browser. Users can inspect or copy them through browser developer tools. A database or API would not solve content secrecy completely, but server-side question delivery would make casual extraction harder.
+3. **No analytics or error monitoring**
+   - The game does not report starts, completions, drop-offs, answer accuracy, video failures, or JavaScript errors. Add a privacy-approved analytics/error-monitoring service only if those measurements are required.
+4. **Static asset and network dependency**
+   - The game depends on Vercel serving the JSON, images, and MP4 files successfully. Google Fonts are an additional external request; if blocked, fallback fonts are used and the game remains functional.
+5. **Media fallback behavior**
+   - Turn videos have a timeout fallback so a stalled video does not permanently block play. This keeps the game moving but can make a transition appear abruptly on slow devices or networks.
+6. **Database/API availability is required**
+   - The public deployment has no offline question fallback. If the database or API is unavailable, a new game cannot start; this is intentional so question data and answers are not bundled in the browser.
+7. **Accessibility remains partial**
+   - Some controls use custom clickable elements and the game uses color-heavy visual feedback. Keyboard support exists for tier cards and True/False answers, but a full screen-reader, focus-order, reduced-motion, contrast, and captions audit is still required.
+8. **No content-management workflow**
+   - Updating policy text currently requires updating the approved seed source and running the database seed script. There is no admin panel, approval workflow, or versioning UI.
+
+### Database-backed architecture
+
+- [`db/schema.sql`](db/schema.sql) defines the `scrolls`, `questions`, and opaque `game_sessions` tables.
+- [`scripts/seed-db.mjs`](scripts/seed-db.mjs) imports the approved source bank into the database. The source bank is used only during seeding and is not placed in [`public/`](public/).
+- [`api/game/start.js`](api/game/start.js) assigns three missions and creates a five-question ladder without returning answer values.
+- [`api/game/answer.js`](api/game/answer.js) validates answers and timeouts server-side, returning the explanation only after submission.
+- The Vercel project must have a Neon/Vercel Postgres integration with a `POSTGRES_URL` environment variable in Preview and Production.
+
+### Database setup before deployment
+
+1. Create a Neon database through the Vercel Marketplace or link an existing Neon database.
+2. Add `POSTGRES_URL` to the Vercel project for Preview and Production environments.
+3. Run [`db/schema.sql`](db/schema.sql) against that database.
+4. From a trusted local environment, run:
+
+   ```bash
+   npm install
+   $env:POSTGRES_URL="your-private-connection-string"
+   npm run seed:db
+   ```
+
+5. Deploy to Vercel and verify `/api/game/start` through the game UI.
+
+The connection string must never be committed or exposed to browser code.
+
+### Deployment package
+
+3. **Vercel deployment package:**
+   - The deployable package is in [`public/`](public/), containing only the runtime `index.html` and the 10 media assets used by the game. Scroll data is served through the API.
+   - [`vercel.json`](vercel.json) configures Vercel to publish `public/` as the output directory.
+   - The deployment copy of `index.html` uses `assets/<filename>` paths; the working prototype in `mockups/` remains unchanged.
+   - Internal source documents, archives, local tooling, screenshots, and the development virtual environment are excluded from the deployment package.
+
+## 6. Vercel Deployment
+
+The project is a static site and does not require a database, serverless function, build step, or environment variables.
+
+### Deploy from the Vercel dashboard
+
+1. Import this repository into Vercel.
+2. Leave the framework preset as **Other**.
+3. Keep the root directory at the repository root.
+4. Vercel will use [`vercel.json`](vercel.json) and publish [`public/`](public/).
+5. Deploy.
+
+### Deploy with the Vercel CLI
+
+From the repository root:
+
+```bash
+npx vercel
+npx vercel --prod
+```
+
+No `npm install` is required. The CLI may ask you to link the directory to a Vercel project on the first run.
+
+### Pre-deployment checks
+
+- Confirm Claudia has cleared the public question bank and visual assets.
+- Confirm whether the reviewer navigation bar should remain visible for public users.
+- Test the production URL on desktop and mobile.
+- Verify that the opening screen, question bank, images, videos, victory flow, and elimination flow load successfully.
+- Do not deploy the repository root as the site output; Vercel must publish `public/`.
