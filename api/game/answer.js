@@ -13,14 +13,14 @@ export default async function handler(req, res) {
       return json(res, 400, { error: 'A valid sessionId, stage, and answer are required.' });
     }
 
-    const { rows } = await sql`
+    const rows = await sql`
       SELECT
         s.current_stage,
         s.status,
         q.answer,
         q.explanation
       FROM game_sessions s
-      JOIN questions q ON q.id = ((s.question_ids ->> ${stage})::bigint)
+      JOIN questions q ON q.id = ((s.question_ids ->> ${stage}::int)::bigint)
       WHERE s.id = ${body.sessionId}::uuid
     `;
     if (rows.length === 0) return json(res, 404, { error: 'Game session not found.' });

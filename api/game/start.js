@@ -49,7 +49,7 @@ export default async function handler(req, res) {
       return json(res, 400, { error: 'Tier must be an integer from 1 to 4.' });
     }
 
-    const { rows: scrollRows } = await sql`
+    const scrollRows = await sql`
       SELECT id, tier, tier_name, title, rules, examples
       FROM scrolls
       WHERE tier = ${tier}
@@ -59,7 +59,7 @@ export default async function handler(req, res) {
     if (scrollRows.length < 3) return json(res, 503, { error: 'Not enough missions are configured.' });
 
     const ids = scrollRows.map((scroll) => scroll.id);
-    const { rows: questionRows } = await sql`
+    const questionRows = await sql`
       SELECT id, scroll_id, statement, difficulty
       FROM questions
       WHERE scroll_id = ANY(${ids}::int[])
